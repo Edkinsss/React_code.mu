@@ -1,7 +1,13 @@
 import React from 'react';
 
 function App() {
-  return <input />;
+  return (
+    <div>
+      <input />, 
+      <input />, 
+      <input />, 
+    </div>
+  )
 }
 
 export default App;
