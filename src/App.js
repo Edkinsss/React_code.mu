@@ -1,10 +1,10 @@
 import React from 'react';
 
 function App() {
-	const attr = 'block';
+  const sss = <p>prapra</p>;
 	
-	return <div id = {attr}>
-		text
+	return <div>
+		{sss}
 	</div>;
 }
 
